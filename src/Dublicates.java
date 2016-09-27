@@ -48,7 +48,7 @@ public class Dublicates {
     }
 
     /**
-     * Formiruet spisok strok
+     * Form list str
      * @param fileName
      * @return ArrayList<String></>
      */
